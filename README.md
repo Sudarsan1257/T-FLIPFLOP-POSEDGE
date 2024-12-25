@@ -56,4 +56,5 @@ From the above characteristic table, we can directly write the next state equati
 ![Screenshot 2024-12-25 152423](https://github.com/user-attachments/assets/7883e842-1ef1-4a10-b174-76a37a43ee2d)
 
 **RESULTS**
+
 THE IMPLEMENTATION OF T-FLIPFLOP IS TESTED AND VERIFIED
